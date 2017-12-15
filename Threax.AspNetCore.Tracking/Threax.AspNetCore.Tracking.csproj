@@ -2,10 +2,14 @@
 
   <PropertyGroup>
     <TargetFramework>netstandard2.0</TargetFramework>
-    <Version>2.0.1</Version>
+    <Version>2.0.2</Version>
     <GeneratePackageOnBuild>true</GeneratePackageOnBuild>
     <IncludeSymbols>True</IncludeSymbols>
     <IncludeSource>True</IncludeSource>
+    <Description>A library to support created and modified properties on entities.</Description>
+    <PackageLicenseUrl>https://github.com/threax/Threax.AspNetCore.Tracking/blob/master/LICENSE</PackageLicenseUrl>
+    <PackageProjectUrl>https://github.com/threax/Threax.AspNetCore.Tracking</PackageProjectUrl>
+    <RepositoryUrl>https://github.com/threax/Threax.AspNetCore.Tracking</RepositoryUrl>
   </PropertyGroup>
 
   <ItemGroup>
